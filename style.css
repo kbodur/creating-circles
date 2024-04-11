@@ -1,0 +1,26 @@
+
+.box{
+    padding: 30px;
+    border: 5px solid black;
+    width: 60%;
+    height: 60vh;
+   
+}
+.button{
+   background-color: red;
+   color: white;
+   border-radius: 20px;
+   width: 150px;
+   height: 35px;
+   box-shadow: black;
+   margin-top: 30px;
+   margin-left: 400px;
+}
+.button:hover{
+    box-shadow: 5px black;
+
+}
+.circle{
+    border-radius: 50%;
+    position: absolute;
+}
